@@ -1,0 +1,18 @@
+本地到服务器
+
+git add 修改的文件名
+
+git commit -m '备注'
+
+git push origin 分支
+
+
+
+服务器到本地
+
+切换到其他分支：
+$ git fetch origin 服务器分支:本地同名分支
+
+
+
+
